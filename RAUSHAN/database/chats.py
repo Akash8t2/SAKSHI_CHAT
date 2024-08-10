@@ -1,4 +1,4 @@
-from RAUSHAN import db
+from SKKING import db
 
 chatsdb = db.chatsdb
 
