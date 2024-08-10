@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", "21803165"))
-API_HASH = getenv("API_HASH", "05e5e695feb30e25bef47484cc006da7")
-BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", "7403621976"))
-MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "Purvi_UPdates")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "WORLD_ALPHA")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "ll_ALPHA_BABY_lll")
+API_ID = int(getenv("API_ID","24175365")
+API_HASH = getenv("API_HASH","6c671b52c2acbc665e239c006ed890a2")
+BOT_TOKEN = getenv("BOT_TOKEN","7371961548:AAF0XYSMQsaOxnpHvpFXvMWBwCFnBMthv6Y")
+OWNER_ID = int(getenv("OWNER_ID","7423400816")
+MONGO_URL = getenv("MONGO_URL","mongodb+srv://BrandedSupportGroup:BRANDED_WORLD@cluster0.v4odcq9.mongodb.net/?retryWrites=true&w=majority")
+SUPPORT_GRP = getenv("SUPPORT_GRP","TG_Friends_hub")
+UPDATE_CHNL = getenv("UPDATE_CHNL","TG_STORE_ll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Cute_girl_d21")
 
 # Random Start Images
 IMG = [
