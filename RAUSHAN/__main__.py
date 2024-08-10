@@ -1,5 +1,5 @@
-from RAUSHAN import LOGGER, AMBOT
+from 𝐒𝐊𝐊𝐈𝐍𝐆 import LOGGER, AMBOT
 
 if __name__ == "__main__":
-    LOGGER.info("The PURVI CHAT BOT Started.")
+    LOGGER.info("The SAKSHI CHAT BOT Started.")
     AMBOT().run()
